@@ -1,3 +1,4 @@
+package src;
 public class Maini {
     // es ari amocans =is piorba
 
@@ -5,4 +6,10 @@ public class Maini {
     //asdasd
     //asdasd
     //asd
+
+    public static void main(String[] args) {
+        //asdasd
+        //asdasdas
+
+    }
 }
